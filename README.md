@@ -2,6 +2,8 @@
 A (free to use) webserver I created because my dad said it's difficult to make a webserver. Spoiler: it isn't.
 
 # Installing
+First, install Python. You'll need it to run the server.
+
 Just download the files, put them into a folder of your choice, and run the "server.py" script. The webserver will ask for a port - if you don't need to change this, just hit Enter. (If you do need to change it, type your new port and hit Enter)
 Then, type "localhost" (without quotes) followed by a colon and your port number (":8080" is the default). Hit Enter, and you'll see the index.html page.
 
